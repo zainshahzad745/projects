@@ -1,0 +1,147 @@
+*{margin-top: 10px;
+    padding: 0;
+    
+  
+  }
+  
+  body{
+   background-image: url(project.jpg);
+   background-position: center;
+   background-size: cover;
+   margin-top: 60px;
+  }
+  .regform{width: 800;
+           background-color: cornflowerblue;
+           margin: auto;
+           color: black;
+           padding: 10px 0px 10px 0px;
+           text-align: center;
+           border-radius: 15px 15px 0px 0px;
+           }
+ .main{background-color: rgb(0,0,0,0.5);
+       margin: auto;
+       width: 800px;     
+       } 
+form{padding: 10px;}    
+.firstname{position: relative;
+           left: 15px;
+           line-height: 40px;
+           border-radius: 6px;
+           padding: 0 22px;
+           font-size: 16px;
+
+} 
+p{font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;}
+
+.lastname{position: relative;
+          left: 80px;
+          line-height: 40px;
+          border-radius: 6px;
+          padding: 0 22px;
+          font-size: 16px;
+        }
+.option1{
+        left: 15px;
+        border-radius: 6px;
+        padding: 0 22px;
+        }
+.option2{
+        left: 15px;
+        border-radius: 6px;
+        padding: 0 22px;
+          }
+.option3{
+        left: 15px;
+        border-radius: 6px;
+        padding: 0 22px;
+            }
+.email{position: relative;
+  left: 30px;
+  line-height: 40px;
+  border-radius: 6px;
+  padding: 0 22px;
+  font-size: 16px;
+}
+.password{position: relative;
+  left: 30px;
+  line-height: 40px;
+  border-radius: 6px;
+  padding: 0 22px;
+  font-size: 16px;
+}
+.contact{position: relative;
+  left: 30px;
+  line-height: 40px;
+  border-radius: 6px;
+  padding: 0 22px;
+  font-size: 16px;
+}
+.contactlabel{position: relative;
+  left: 30px;
+  font-size: 16px;
+
+}
+.male{display: inline;
+  margin-left: 25;
+  margin-top: 15px;
+   padding-right: 70px;
+  font-size: 16px;
+}
+.female{display: inline;
+  margin-left: 25;
+  margin-top: 15px;
+   padding-right: 70px;
+  font-size: 16px;
+}
+.email{position: relative;
+  left: 30px;
+  line-height: 40px;
+  border-radius: 6px;
+  padding: 0 22px;
+  font-size: 16px;
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+}
+.passsign{position: relative;
+  left: 30px;
+  line-height: 40px;
+  border-radius: 6px;
+  padding: 0 22px;
+  font-size: 16px;
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+
+}
+.emailpass{font-size: 20px;
+           font-family: 'Times New Roman', Times, serif;
+           color: white;
+
+}
+.button{background-color: rgb(19, 68, 158);
+  margin-left: 25%;
+  padding: 14px 10px;
+  color: white;
+  transition: 0.25;
+}
+.button2{background-color:rgb(19, 68, 158);
+  padding: 14px 10px;
+  color: white;
+  transition: 0.25;
+}
+
+.signin{font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.button3{
+    border: 2px;
+    padding: 14px 8px;
+    margin-left: 25%;
+    border-radius: 12px}
+
+    
+
+    
+  
